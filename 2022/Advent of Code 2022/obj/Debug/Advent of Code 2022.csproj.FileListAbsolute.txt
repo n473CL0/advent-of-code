@@ -1,0 +1,10 @@
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\bin\Debug\Advent of Code 2022.exe.config
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\bin\Debug\Advent of Code 2022.exe
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\bin\Debug\Advent of Code 2022.pdb
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\obj\Debug\Advent of Code 2022.csproj.AssemblyReference.cache
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\obj\Debug\Advent of Code 2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\obj\Debug\Advent of Code 2022.csproj.CoreCompileInputs.cache
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\obj\Debug\Advent of Code 2022.exe
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\obj\Debug\Advent of Code 2022.pdb
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\bin\Debug\PuzzleInputs\test.txt
+C:\Users\fairc\Documents\LCO.1_Com CAH 22-23\fairclough_nathan\Advent of Code 2022\Advent of Code 2022\bin\Debug\PuzzleInputs\Day15.txt
